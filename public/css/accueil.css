@@ -1,0 +1,40 @@
+.fond_entete{
+    background:linear-gradient(#0d3d4e,#29aadd) ;
+}
+/* .nav_centre{
+    
+} */
+
+.bloc_gauche{
+    background-color: #145F7B;
+    border-radius: 20px;
+    margin-top: 38px;
+    margin-bottom: 30px;
+    /* height: ; */
+    width: 100%;
+}
+.gauche_un{
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 70%;
+    height: 55px;
+    display: inline-flex;
+}
+.imggauche_un{
+    content:'' ;
+    margin-top: 7px
+}
+/* .grandlivre{
+    content:'' ;
+    background-size: 100;
+} */
+.footer{
+    position: relative;
+    height: 80px;
+    width: 100%;
+}
+.fond_footer{
+    background:linear-gradient(#29aadd,#0d3d4e) ;
+}
